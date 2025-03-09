@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "github.com/alexander-zuev/supabase-mcp-server": {
+      "command": "/Users/jmcmanaman/.local/bin/supabase-mcp-server",
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}
