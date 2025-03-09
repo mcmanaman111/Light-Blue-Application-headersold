@@ -1,3 +1,4 @@
+// This comment was added to test the auto-reload functionality
 import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Dashboard from './components/Dashboard';
