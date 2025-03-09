@@ -12,7 +12,7 @@ const WelcomeSection = ({ onCreateTest, onQuickStart }: Props) => {
     <div className="flex flex-col lg:flex-row gap-6">
       <div className="flex-1">
         <h1 className="text-4xl font-bold text-gray-900 dark:text-white mb-2">
-          Hey Sara, let's create your practice test! 👋
+          Welcome to PREPCLEX - Auto-Reload is Working! 🎉
         </h1>
         <p className="text-gray-600 dark:text-gray-400 mb-6">
           Choose to start right away with our Quick Start option, or customize your test by selecting specific question types and topics below.
